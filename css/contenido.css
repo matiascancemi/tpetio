@@ -1,5 +1,8 @@
 .services .icon-box {
     box-shadow: none;
     padding: 20px;
-    background: #000; 
+    background:chocolate;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+
 }
